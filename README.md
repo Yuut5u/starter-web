@@ -20,4 +20,4 @@ Please fork this repository and issue pull requests for review.
 
 ### Copyright
 
-Copyright 2014. 
+Copyright 2014. All rights reserved.
