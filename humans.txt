@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lorenzo Oceo -- ASE -- yuut5u
 
 # THANKS
 
