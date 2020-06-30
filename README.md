@@ -15,3 +15,7 @@ As stated above, the purpose of the project is to show Git demos.
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
+
+### Copyright
+
+Copyright 2014. 
